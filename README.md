@@ -1,1 +1,1 @@
-# scientific-calculator.git
+# scientific-calculator
